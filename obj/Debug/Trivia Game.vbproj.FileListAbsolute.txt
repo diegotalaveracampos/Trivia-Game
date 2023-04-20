@@ -1,0 +1,72 @@
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe.config
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\bin\Debug\Trivia Game.pdb
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\bin\Debug\Trivia Game.xml
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.AssemblyReference.cache
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.frm_Trivia.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Resources.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.GenerateResource.cache
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.CoreCompileInputs.cache
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia Game.exe
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia Game.xml
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia Game.pdb
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Tutorial.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta1.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta2.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta3.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta5.resources
+C:\Users\Helios 300\Desktop\Projectos WIX\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta4.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe.config
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\bin\Debug\Trivia Game.exe
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\bin\Debug\Trivia Game.pdb
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\bin\Debug\Trivia Game.xml
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.AssemblyReference.cache
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta1.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Tutorial.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_trivia.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta5.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta4.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta3.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Frm_Pregunta2.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia_Game.Resources.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.GenerateResource.cache
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia Game.vbproj.CoreCompileInputs.cache
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia Game.exe
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia Game.xml
+C:\Users\Helios 300\Desktop\VB NET Projects\Trivia Game\Trivia Game\obj\Debug\Trivia Game.pdb
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\bin\Debug\Trivia Game.exe.config
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\bin\Debug\Trivia Game.exe
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\bin\Debug\Trivia Game.pdb
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\bin\Debug\Trivia Game.xml
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia Game.vbproj.AssemblyReference.cache
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta1.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_Tutorial.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_trivia.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta5.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta4.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta3.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta2.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia_Game.Resources.resources
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia Game.vbproj.GenerateResource.cache
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia Game.vbproj.CoreCompileInputs.cache
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia Game.exe
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia Game.xml
+C:\Users\Helios 300\Desktop\trivia-game-main\trivia-game-main\obj\Debug\Trivia Game.pdb
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\bin\Debug\Trivia Game App.exe.config
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\bin\Debug\Trivia Game App.exe
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\bin\Debug\Trivia Game App.pdb
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\bin\Debug\Trivia Game App.xml
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia Game.vbproj.AssemblyReference.cache
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta1.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_Tutorial.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_trivia.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta5.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta4.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta3.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Frm_Pregunta2.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia_Game.Resources.resources
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia Game.vbproj.GenerateResource.cache
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia Game.vbproj.CoreCompileInputs.cache
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia Game App.exe
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia Game App.xml
+C:\Users\Helios 300\Desktop\VB NET Projects\trivia-game\trivia-game-main\obj\Debug\Trivia Game App.pdb
