@@ -9,6 +9,6 @@ I hope to continue updating and improving the aesthetics of this program as well
 To deploy this project run
 
 ```bash
-  bin/Debug/Trivia App.exe
+  bin/Debug/Trivia Game App.exe
 ```
 
